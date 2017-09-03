@@ -52,7 +52,7 @@ hi NonText          cterm=NONE      ctermfg=238         ctermbg=NONE
 hi Normal           cterm=NONE      ctermfg=247         ctermbg=234
 hi Operator         cterm=NONE      ctermfg=251         ctermbg=NONE
 hi Pmenu            cterm=NONE      ctermfg=251         ctermbg=234
-hi PmenuSel         cterm=NONE      ctermfg=251         ctermbg=NONE
+hi PmenuSel         cterm=NONE      ctermfg=234         ctermbg=66
 hi PmenuSbar        cterm=NONE      ctermfg=251         ctermbg=NONE
 hi PmenuThumb       cterm=NONE      ctermfg=251         ctermbg=NONE
 hi PreProc          cterm=NONE      ctermfg=66          ctermbg=NONE
