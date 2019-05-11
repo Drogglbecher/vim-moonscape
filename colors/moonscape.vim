@@ -39,22 +39,23 @@ hi DiffDelete       cterm=NONE      ctermfg=124         ctermbg=NONE
 hi DiffText         cterm=NONE      ctermfg=251         ctermbg=NONE
 hi Directory        cterm=NONE      ctermfg=244         ctermbg=NONE
 hi Error            cterm=bold      ctermfg=124         ctermbg=234
-hi ErrorMsg         cterm=bold      ctermfg=124         ctermbg=NONE
+hi ErrorMsg         cterm=NONE      ctermfg=124         ctermbg=235
 hi FoldColumn       cterm=NONE      ctermfg=238         ctermbg=NONE
 hi Folded           cterm=NONE      ctermfg=238         ctermbg=NONE
 hi Function         cterm=NONE      ctermfg=251         ctermbg=NONE
 hi Identifier       cterm=bold      ctermfg=66          ctermbg=NONE
 hi Include          cterm=NONE      ctermfg=66          ctermbg=NONE
 hi IncSearch        cterm=NONE      ctermfg=247         ctermbg=247
+hi InfoMsg          cterm=NONE      ctermfg=66          ctermbg=NONE
 hi LineNr           cterm=NONE      ctermfg=59          ctermbg=234
 hi Macro            cterm=NONE      ctermfg=66          ctermbg=NONE
 hi NonText          cterm=NONE      ctermfg=238         ctermbg=NONE
 hi Normal           cterm=NONE      ctermfg=247         ctermbg=NONE
 hi Operator         cterm=NONE      ctermfg=251         ctermbg=NONE
-hi Pmenu            cterm=NONE      ctermfg=251         ctermbg=234
+hi Pmenu            cterm=NONE      ctermfg=251         ctermbg=236
 hi PmenuSel         cterm=NONE      ctermfg=234         ctermbg=66
-hi PmenuSbar        cterm=NONE      ctermfg=251         ctermbg=NONE
-hi PmenuThumb       cterm=NONE      ctermfg=251         ctermbg=NONE
+hi PmenuSbar        cterm=NONE      ctermfg=251         ctermbg=235
+hi PmenuThumb       cterm=NONE      ctermfg=250         ctermbg=238
 hi PreProc          cterm=NONE      ctermfg=66          ctermbg=NONE
 hi Search           cterm=NONE      ctermfg=234         ctermbg=66
 hi Special          cterm=NONE      ctermfg=66          ctermbg=NONE
@@ -65,7 +66,7 @@ hi SpellLocal       cterm=NONE      ctermfg=130         ctermbg=NONE
 hi SpellRare        cterm=NONE      ctermfg=245         ctermbg=NONE
 hi Statement        cterm=NONE      ctermfg=251         ctermbg=NONE
 hi StatusLine       cterm=NONE      ctermfg=238         ctermbg=NONE
-hi StatusLineNC     cterm=NONE      ctermfg=238         ctermbg=NONE  guibg=darkgrey
+hi StatusLineNC     cterm=NONE      ctermfg=238         ctermbg=NONE  guibg=66
 hi String           cterm=NONE      ctermfg=66          ctermbg=NONE
 hi TabLine          cterm=NONE      ctermfg=251         ctermbg=NONE
 hi TabLineFill      cterm=NONE      ctermfg=NONE        ctermbg=251
