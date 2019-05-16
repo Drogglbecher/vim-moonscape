@@ -66,7 +66,7 @@ hi SpellLocal       cterm=NONE      ctermfg=130         ctermbg=NONE
 hi SpellRare        cterm=NONE      ctermfg=245         ctermbg=NONE
 hi Statement        cterm=NONE      ctermfg=251         ctermbg=NONE
 hi StatusLine       cterm=NONE      ctermfg=238         ctermbg=NONE
-hi StatusLineNC     cterm=NONE      ctermfg=238         ctermbg=NONE  guibg=66
+hi StatusLineNC     cterm=NONE      ctermfg=238         ctermbg=NONE  guibg=black
 hi String           cterm=NONE      ctermfg=66          ctermbg=NONE
 hi TabLine          cterm=NONE      ctermfg=251         ctermbg=NONE
 hi TabLineFill      cterm=NONE      ctermfg=NONE        ctermbg=251
