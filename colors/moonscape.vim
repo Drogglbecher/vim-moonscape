@@ -38,8 +38,8 @@ hi DiffChange       cterm=NONE      ctermfg=130         ctermbg=NONE
 hi DiffDelete       cterm=NONE      ctermfg=124         ctermbg=NONE
 hi DiffText         cterm=NONE      ctermfg=251         ctermbg=NONE
 hi Directory        cterm=NONE      ctermfg=244         ctermbg=NONE
-hi Error            cterm=bold      ctermfg=124         ctermbg=234
-hi ErrorMsg         cterm=NONE      ctermfg=124         ctermbg=235
+hi Error            cterm=bold      ctermfg=196         ctermbg=234
+hi ErrorMsg         cterm=NONE      ctermfg=196         ctermbg=NONE
 hi FoldColumn       cterm=NONE      ctermfg=238         ctermbg=NONE
 hi Folded           cterm=NONE      ctermfg=238         ctermbg=NONE
 hi Function         cterm=NONE      ctermfg=251         ctermbg=NONE
