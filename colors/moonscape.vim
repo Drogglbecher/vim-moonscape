@@ -59,6 +59,7 @@ hi PmenuThumb       cterm=NONE      ctermfg=250         ctermbg=238
 hi PreProc          cterm=NONE      ctermfg=66          ctermbg=NONE
 hi Search           cterm=NONE      ctermfg=234         ctermbg=66
 hi Special          cterm=NONE      ctermfg=66          ctermbg=NONE
+hi SignColumn       cterm=NONE      ctermfg=NONE        ctermbg=NONE
 hi SpecialKey       cterm=NONE      ctermfg=66          ctermbg=NONE
 hi SpellBad         cterm=NONE      ctermfg=124         ctermbg=NONE
 hi SpellCap         cterm=NONE      ctermfg=66          ctermbg=NONE
